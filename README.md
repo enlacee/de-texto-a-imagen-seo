@@ -16,3 +16,5 @@ just need to set the text in the variable into the file `main.py`
 
 ## Example
 this tool is use into the blog: https://blog.anibalcopitan.com
+
+![thumbnail](de-texto-a-imagen-seo-generator-400x277.png)
