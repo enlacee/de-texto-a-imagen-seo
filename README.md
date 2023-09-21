@@ -10,6 +10,8 @@ just need to set the text in the variable into the file `main.py`
 
 ## Execute
 
+	source venv/bin/activate
+
 	cd <MainDirectory>
 	pip install
 	python main.py

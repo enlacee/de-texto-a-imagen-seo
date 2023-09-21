@@ -7,14 +7,14 @@ from slugify import slugify
 # font = ImageFont.truetype('./assets/Helvetica-Font/Helvetica.ttf', 40)
 # d.text((30, 30), "Basic programs to install on raspberry by terminal", fill=(255, 255, 255), font=font)
 #
-astr = '''De texto a imagen seo generator'''
+astr = ''' Whats mean Cryptography '''
 para = textwrap.wrap(astr, width=25)
 
 MAX_W, MAX_H = 400, 277
 im = Image.new('RGB', (MAX_W, MAX_H), (0, 0, 0, 0))
 draw = ImageDraw.Draw(im)
 font = ImageFont.truetype(
-    './assets/Helvetica-Font/Helvetica.ttf', 30)
+    './assets/font/Helvetica.ttf', 30)
 
 current_h, pad = 70, 10
 for line in para:
