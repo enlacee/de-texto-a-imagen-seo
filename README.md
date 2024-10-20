@@ -10,7 +10,9 @@ just need to set the text in the variable into the file `main.py`
 
 ## Execute
 
+	python3 -m venv env
 	source venv/bin/activate
+	pip install -r requirements.txt
 
 	cd <MainDirectory>
 	pip install

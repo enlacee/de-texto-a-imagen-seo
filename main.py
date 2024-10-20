@@ -7,7 +7,7 @@ from slugify import slugify
 # font = ImageFont.truetype('./assets/Helvetica-Font/Helvetica.ttf', 40)
 # d.text((30, 30), "Basic programs to install on raspberry by terminal", fill=(255, 255, 255), font=font)
 #
-astr = ''' Whats mean Cryptography '''
+astr = ''' Contamos con tus 5 sol-sasoss o no xD... '''
 para = textwrap.wrap(astr, width=25)
 
 MAX_W, MAX_H = 400, 277
